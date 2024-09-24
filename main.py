@@ -5,7 +5,7 @@ from domain import *
 from general import *
 from torbootstrap import *
 process()
-bootstarp()
+bootstrap()
 PROJECT_NAME = input("Enter Project Name:")
 HOMEPAGE = input("Enter Url:")
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
